@@ -6,13 +6,15 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="Program.fs"/>
+        <Compile Include="Program.fs" />
         <None Include="test.fsx" />
         <Content Include="vttt.txt" />
     </ItemGroup>
 
     <ItemGroup>
       <PackageReference Include="FsHttp" Version="14.5.0" />
+      <PackageReference Include="OpenAI" Version="1.11.0" />
+      <PackageReference Include="OpenAI.Client" Version="0.2.0" />
     </ItemGroup>
 
 </Project>

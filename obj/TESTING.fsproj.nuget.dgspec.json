@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anselmosljr/Desktop/TESTING/TESTING.fsproj": {}
+    "/home/anselmosljr/Downloads/TestingJsHttp/TESTING.fsproj": {}
   },
   "projects": {
-    "/Users/anselmosljr/Desktop/TESTING/TESTING.fsproj": {
+    "/home/anselmosljr/Downloads/TestingJsHttp/TESTING.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anselmosljr/Desktop/TESTING/TESTING.fsproj",
+        "projectUniqueName": "/home/anselmosljr/Downloads/TestingJsHttp/TESTING.fsproj",
         "projectName": "TESTING",
-        "projectPath": "/Users/anselmosljr/Desktop/TESTING/TESTING.fsproj",
-        "packagesPath": "/Users/anselmosljr/.nuget/packages/",
-        "outputPath": "/Users/anselmosljr/Desktop/TESTING/obj/",
+        "projectPath": "/home/anselmosljr/Downloads/TestingJsHttp/TESTING.fsproj",
+        "packagesPath": "/home/anselmosljr/.nuget/packages/",
+        "outputPath": "/home/anselmosljr/Downloads/TestingJsHttp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/anselmosljr/.nuget/NuGet/NuGet.Config"
+          "/home/anselmosljr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/8.0.101/FSharp/library-packs": {},
+          "/usr/lib/dotnet/sdk/8.0.103/FSharp/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,12 +37,22 @@
             "FSharp.Core": {
               "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
-              "version": "[8.0.101, )",
+              "version": "[8.0.102, )",
               "generatePathProperty": true
             },
             "FsHttp": {
               "target": "Package",
               "version": "[14.5.0, )",
+              "generatePathProperty": true
+            },
+            "OpenAI": {
+              "target": "Package",
+              "version": "[1.11.0, )",
+              "generatePathProperty": true
+            },
+            "OpenAI.Client": {
+              "target": "Package",
+              "version": "[0.2.0, )",
               "generatePathProperty": true
             }
           },
@@ -62,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

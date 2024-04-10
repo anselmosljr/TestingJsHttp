@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rS3Z8Q+YuapK6QcSSr4B0FdhNNlVvv4Ks624RKDQ/fa1CifgPW9s1Kk1dEx2EAdRohLIaVNpmKEUsHB6L8dvbw==",
+  "success": true,
+  "projectFilePath": "/Users/anselmosljr/Desktop/TESTING/TESTING.fsproj",
+  "expectedPackageFiles": [
+    "/Users/anselmosljr/.nuget/packages/fsharp.core/8.0.101/fsharp.core.8.0.101.nupkg.sha512",
+    "/Users/anselmosljr/.nuget/packages/fshttp/14.5.0/fshttp.14.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

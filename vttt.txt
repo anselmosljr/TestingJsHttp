@@ -1,0 +1,453 @@
+WEBVTT
+
+1
+00:00:00.680 --> 00:00:01.850
+giga pros: And
+
+2
+00:00:02.880 --> 00:00:04.730
+giga pros: live on Youtube.
+
+3
+00:00:06.770 --> 00:00:12.840
+Michel Carvalho: Now, it's yeah. zoom talking about recording progress.
+
+4
+00:00:13.310 --> 00:00:17.720
+Lucas Keven: Yeah, I never heard the voice.
+
+5
+00:00:18.280 --> 00:00:21.769
+Michel Carvalho: If he Marcus Pam, or
+
+6
+00:00:22.260 --> 00:00:25.910
+Michel Carvalho: skilled of the
+
+7
+00:00:26.340 --> 00:00:28.629
+Michel Carvalho: do do. So
+
+8
+00:00:28.930 --> 00:00:33.260
+Sidnei Pacheco: the class today is about the software subtitle.
+
+9
+00:00:33.980 --> 00:00:41.109
+giga pros: Yes, today, you're gonna talk about hard skills. Actually, I mean. is a hybrid. In a sense.
+
+10
+00:00:41.250 --> 00:00:45.199
+giga pros: I know that you can talk about it because you are from Ruby.
+
+11
+00:00:45.280 --> 00:00:57.639
+giga pros: And what I want to discuss with you guys today is testing testing code. Ruby guys are well known to be like super into testing. I guess. Am I right? Like, ruby ruby guys are super into testing?
+
+12
+00:00:58.730 --> 00:01:05.080
+Sidnei Pacheco: Yeah, that's the II am coded in in textbooks.
+
+13
+00:01:05.580 --> 00:01:13.360
+Sidnei Pacheco: but the less the last week I need to coaching Ruben rails in in very happy to.
+
+14
+00:01:13.620 --> 00:01:20.680
+Sidnei Pacheco: So this is that is easily to to make that. It's very easy
+
+15
+00:01:21.640 --> 00:01:24.200
+Sidnei Pacheco: to to test anything
+
+16
+00:01:28.110 --> 00:01:29.130
+giga pros: and
+
+17
+00:01:29.310 --> 00:01:45.230
+giga pros: tell me more about you guys, how you guys do testing at your company like for you, Sydney, for example, how you guys test code, you just deployed production and see if the the the thing explode in the client, we'll actually write a software to test it. You actually write test.
+
+18
+00:01:45.960 --> 00:01:47.800
+Sidnei Pacheco: Okay, my
+
+19
+00:01:48.330 --> 00:01:51.209
+Sidnei Pacheco: my assistant is have have.
+
+20
+00:01:51.500 --> 00:01:59.550
+Sidnei Pacheco: and I want to implement it. Integration passes. But but
+
+21
+00:02:00.400 --> 00:02:08.150
+Sidnei Pacheco: it is a a little beach, expensive. and the difficulty to implement
+
+22
+00:02:08.889 --> 00:02:09.660
+giga pros: why?
+
+23
+00:02:11.320 --> 00:02:15.080
+Sidnei Pacheco: Because it you need to
+
+24
+00:02:15.420 --> 00:02:20.880
+Sidnei Pacheco: to make our. to make up definitions of the system.
+
+25
+00:02:21.060 --> 00:02:22.250
+Sidnei Pacheco: add up
+
+26
+00:02:23.430 --> 00:02:27.840
+Sidnei Pacheco: example. I have. I have. Yeah, I have to use the
+
+27
+00:02:28.330 --> 00:02:29.580
+react native.
+
+28
+00:02:30.270 --> 00:02:33.119
+Sidnei Pacheco: and they need to to mob
+
+29
+00:02:34.330 --> 00:02:39.630
+Sidnei Pacheco: the application run the the cell phone engine that
+
+30
+00:02:40.710 --> 00:02:47.280
+Sidnei Pacheco: something, something as simple update cell phone in the style web in the open app in
+
+31
+00:02:48.250 --> 00:02:50.570
+Sidnei Pacheco: and expected the
+
+32
+00:02:50.830 --> 00:02:53.030
+Sidnei Pacheco: the clicks and the the
+
+33
+00:02:53.340 --> 00:02:54.510
+Sidnei Pacheco: the buttons.
+
+34
+00:02:55.210 --> 00:03:00.429
+giga pros: Oh, you'll have to mock the user in a sense, by end-to-end testing is hard because of mocking.
+
+35
+00:03:00.740 --> 00:03:04.840
+Sidnei Pacheco: Yes, in in the integration
+
+36
+00:03:04.910 --> 00:03:07.810
+Sidnei Pacheco: which expensive and you difficult.
+
+37
+00:03:08.580 --> 00:03:17.269
+giga pros: Yeah, you guys do, do you guys solve them? Michelle, on on the company work? You guys have like a a testing framework to test mobile apps.
+
+38
+00:03:18.200 --> 00:03:21.370
+Michel Carvalho: Yes, has
+
+39
+00:03:21.620 --> 00:03:25.639
+Michel Carvalho: native. And another type of
+
+40
+00:03:25.800 --> 00:03:28.369
+Michel Carvalho: that's the native is.
+
+41
+00:03:28.760 --> 00:03:33.430
+Michel Carvalho: And index code has XC tests
+
+42
+00:03:33.530 --> 00:03:46.060
+Michel Carvalho: and the have more framework about you quick enable. It's a open source right? By Facebook, I think.
+
+43
+00:03:46.310 --> 00:03:48.390
+Lucas Keven: Jazz right?
+
+44
+00:03:48.750 --> 00:03:51.229
+Lucas Keven: Just just yes.
+
+45
+00:03:51.480 --> 00:03:56.030
+Sidnei Pacheco: but, Jesse, you best. II am using
+
+46
+00:03:56.110 --> 00:04:01.559
+Sidnei Pacheco: just in the project. But I need to the test integration test.
+
+47
+00:04:03.800 --> 00:04:05.470
+giga pros: please? As well.
+
+48
+00:04:07.550 --> 00:04:10.410
+Michel Carvalho: Yeah, in in the for
+
+49
+00:04:10.430 --> 00:04:13.610
+Michel Carvalho: instrumental test has a
+
+50
+00:04:14.890 --> 00:04:18.360
+Michel Carvalho: I forgot. I can remember. I think
+
+51
+00:04:18.519 --> 00:04:21.460
+Michel Carvalho: that is Ruby, and
+
+52
+00:04:21.959 --> 00:04:32.550
+Sidnei Pacheco: as another one you have of this.
+
+53
+00:04:33.390 --> 00:04:34.390
+Michel Carvalho: No.
+
+54
+00:04:36.460 --> 00:04:39.090
+Michel Carvalho: I don't know this one as well.
+
+55
+00:04:42.240 --> 00:04:43.710
+Michel Carvalho: and the
+
+56
+00:04:44.590 --> 00:04:47.180
+Michel Carvalho: it's. you know.
+
+57
+00:04:48.490 --> 00:04:51.020
+Michel Carvalho: for when do you need to
+
+58
+00:04:52.030 --> 00:04:55.970
+Michel Carvalho: here in them case where in the company.
+
+59
+00:04:56.280 --> 00:04:57.650
+Michel Carvalho: when you.
+
+60
+00:04:57.900 --> 00:05:03.669
+Michel Carvalho: for example, you fix about your create a new feature. That's it's a
+
+61
+00:05:04.540 --> 00:05:06.110
+Michel Carvalho: regulatory
+
+62
+00:05:06.720 --> 00:05:10.210
+Michel Carvalho: for regular Centro regulatory.
+
+63
+00:05:11.370 --> 00:05:18.850
+giga pros: Yeah, yeah, it could be. Yes. there's a better word. Let me see, go ahead.
+
+64
+00:05:19.380 --> 00:05:24.159
+Michel Carvalho: It's about a a rural that's a central bank.
+
+65
+00:05:24.900 --> 00:05:30.610
+Michel Carvalho: Units. Put this until next Friday for executive.
+
+66
+00:05:31.190 --> 00:05:37.569
+Michel Carvalho: And you need to put in production, or it's a that's
+
+67
+00:05:37.840 --> 00:05:42.310
+Michel Carvalho: the bank needs to to pay a
+
+68
+00:05:43.080 --> 00:05:45.520
+Michel Carvalho: I forgot the name. It's
+
+69
+00:05:45.580 --> 00:05:46.980
+Michel Carvalho: what's rates.
+
+70
+00:05:47.710 --> 00:05:50.020
+Michel Carvalho:  Julius.
+
+71
+00:05:50.650 --> 00:05:54.949
+Michel Carvalho: interesting! Interesting!
+
+72
+00:05:55.020 --> 00:05:56.620
+Michel Carvalho: And
+
+73
+00:05:57.640 --> 00:06:00.020
+Michel Carvalho: when this has this.
+
+74
+00:06:00.080 --> 00:06:01.620
+Michel Carvalho: the the
+
+75
+00:06:02.100 --> 00:06:05.239
+Michel Carvalho: fuck a fuck off, that's and
+
+76
+00:06:05.320 --> 00:06:06.599
+Michel Carvalho: that's well, you know.
+
+77
+00:06:06.660 --> 00:06:10.059
+Michel Carvalho: go harsh to go harsh.
+
+78
+00:06:10.090 --> 00:06:14.770
+giga pros: If you guys are doing regulatory stuff, you don't do testing
+
+79
+00:06:15.610 --> 00:06:25.590
+Michel Carvalho: the unit test just to test. And okay, let's test these. Okay, it's
+
+80
+00:06:25.680 --> 00:06:29.099
+Michel Carvalho: that's good. Let's just just show
+
+81
+00:06:29.520 --> 00:06:38.140
+Michel Carvalho: U user tests, you know, but not unit tests integration tests. This is
+
+82
+00:06:39.210 --> 00:06:41.030
+Michel Carvalho: just through through
+
+83
+00:06:41.790 --> 00:06:45.810
+Sidnei Pacheco: rung, you know. Run round.
+
+84
+00:06:46.030 --> 00:06:49.220
+Sidnei Pacheco: are you? Are you? Iphone develop?
+
+85
+00:06:49.650 --> 00:06:53.040
+Michel Carvalho: Yes, yes.
+
+86
+00:06:53.610 --> 00:06:56.570
+Sidnei Pacheco: But when you, when
+
+87
+00:06:56.590 --> 00:06:59.420
+Sidnei Pacheco: when you put the production bug
+
+88
+00:07:00.440 --> 00:07:02.840
+Sidnei Pacheco: how to do the whole web
+
+89
+00:07:04.850 --> 00:07:05.620
+Michel Carvalho: up.
+
+90
+00:07:06.020 --> 00:07:10.530
+Michel Carvalho: Okay, so we we have some process
+
+91
+00:07:10.710 --> 00:07:16.340
+Michel Carvalho: 3, 2, 2, 3, 3 step of the passes.
+
+92
+00:07:16.600 --> 00:07:26.120
+Michel Carvalho: The the first thing it does think at squads after we are a regression of of the app, and that's all things
+
+93
+00:07:26.330 --> 00:07:32.320
+Michel Carvalho: the painter. And after we testing beta for
+
+94
+00:07:32.520 --> 00:07:34.390
+Michel Carvalho: that's flight
+
+95
+00:07:34.620 --> 00:07:37.519
+Michel Carvalho: in the after that.
+
+96
+00:07:38.150 --> 00:07:45.919
+Michel Carvalho: find a new bug. And we are, we create a new release
+
+97
+00:07:46.340 --> 00:07:51.840
+Michel Carvalho: hold back the the model. For example, II
+
+98
+00:07:52.250 --> 00:07:55.170
+Michel Carvalho: I have a a version of a pods.
+
+99
+00:07:56.690 --> 00:07:58.160
+Michel Carvalho: It's a
+
+100
+00:07:59.670 --> 00:08:02.290
+Michel Carvalho: like it, a micro services.
+
+101
+00:08:02.460 --> 00:08:13.970
+Michel Carvalho: It's in another world. And then we return it. The version, for example, we are using the versa true, and the bug is diversity true, and then we create a new.
+
+102
+00:08:14.070 --> 00:08:18.149
+Michel Carvalho: Can you see, virtual for virtual. For example.
+
+103
+00:08:19.550 --> 00:08:21.830
+Sidnei Pacheco: I don't. My life
+
+104
+00:08:22.560 --> 00:08:30.039
+Sidnei Pacheco: you little uses
+
+105
+00:08:30.570 --> 00:08:40.250
+Sidnei Pacheco: in the different times. and then you you'll free the other timing you
+
+106
+00:08:40.460 --> 00:08:41.490
+Sidnei Pacheco: other
+
+107
+00:08:41.539 --> 00:08:45.049
+Sidnei Pacheco: investment of the users. It's even the Us. Investment.
+
+108
+00:08:45.180 --> 00:08:45.950
+Sidnei Pacheco: Indeed.
+
+109
+00:08:47.170 --> 00:08:56.560
+Michel Carvalho: Okay, a lot. True.
+
+110
+00:08:56.800 --> 00:08:58.060
+Michel Carvalho: delivered Vernon.
+
+111
+00:08:58.200 --> 00:09:02.090
+Michel Carvalho: for example. The this new feature is,
+
+112
+00:09:02.910 --> 00:09:06.340
+Sidnei Pacheco: has the user. You have
+
+113
+00:09:06.900 --> 00:09:07.600
+Sidnei Pacheco: a future.

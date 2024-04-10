@@ -1,0 +1,60 @@
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/TESTING
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/TESTING.deps.json
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/TESTING.runtimeconfig.json
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/TESTING.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/TESTING.pdb
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/FSharp.Core.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/FsHttp.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/cs/FSharp.Core.resources.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/de/FSharp.Core.resources.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/es/FSharp.Core.resources.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/fr/FSharp.Core.resources.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/it/FSharp.Core.resources.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/ja/FSharp.Core.resources.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/ko/FSharp.Core.resources.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/pl/FSharp.Core.resources.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/pt-BR/FSharp.Core.resources.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/ru/FSharp.Core.resources.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/tr/FSharp.Core.resources.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/zh-Hans/FSharp.Core.resources.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/bin/Debug/net8.0/zh-Hant/FSharp.Core.resources.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/obj/Debug/net8.0/TESTING.fsproj.AssemblyReference.cache
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/obj/Debug/net8.0/TESTING.AssemblyInfoInputs.cache
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/obj/Debug/net8.0/TESTING.AssemblyInfo.fs
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/obj/Debug/net8.0/TESTING.fsproj.CoreCompileInputs.cache
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/obj/Debug/net8.0/TESTING.fsproj.CopyComplete
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/obj/Debug/net8.0/TESTING.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/obj/Debug/net8.0/refint/TESTING.dll
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/obj/Debug/net8.0/TESTING.pdb
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/obj/Debug/net8.0/TESTING.genruntimeconfig.cache
+/Users/anselmosljr/RiderProjects/Aula Web Development/TESTING/TESTING/obj/Debug/net8.0/ref/TESTING.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/TESTING
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/TESTING.deps.json
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/TESTING.runtimeconfig.json
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/TESTING.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/TESTING.pdb
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/FSharp.Core.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/FsHttp.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/cs/FSharp.Core.resources.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/de/FSharp.Core.resources.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/es/FSharp.Core.resources.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/fr/FSharp.Core.resources.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/it/FSharp.Core.resources.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/ja/FSharp.Core.resources.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/ko/FSharp.Core.resources.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/pl/FSharp.Core.resources.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/pt-BR/FSharp.Core.resources.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/ru/FSharp.Core.resources.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/tr/FSharp.Core.resources.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/zh-Hans/FSharp.Core.resources.dll
+/Users/anselmosljr/Desktop/TESTING/bin/Debug/net8.0/zh-Hant/FSharp.Core.resources.dll
+/Users/anselmosljr/Desktop/TESTING/obj/Debug/net8.0/TESTING.fsproj.AssemblyReference.cache
+/Users/anselmosljr/Desktop/TESTING/obj/Debug/net8.0/TESTING.AssemblyInfoInputs.cache
+/Users/anselmosljr/Desktop/TESTING/obj/Debug/net8.0/TESTING.AssemblyInfo.fs
+/Users/anselmosljr/Desktop/TESTING/obj/Debug/net8.0/TESTING.fsproj.CoreCompileInputs.cache
+/Users/anselmosljr/Desktop/TESTING/obj/Debug/net8.0/TESTING.fsproj.CopyComplete
+/Users/anselmosljr/Desktop/TESTING/obj/Debug/net8.0/TESTING.dll
+/Users/anselmosljr/Desktop/TESTING/obj/Debug/net8.0/refint/TESTING.dll
+/Users/anselmosljr/Desktop/TESTING/obj/Debug/net8.0/TESTING.pdb
+/Users/anselmosljr/Desktop/TESTING/obj/Debug/net8.0/TESTING.genruntimeconfig.cache
+/Users/anselmosljr/Desktop/TESTING/obj/Debug/net8.0/ref/TESTING.dll
